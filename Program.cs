@@ -14,6 +14,7 @@ namespace hellodotnetcore
     {
         public static void Main(string[] args)
         {
+            // this is feature A
             BuildWebHost(args).Run();
         }
 
