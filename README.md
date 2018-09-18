@@ -1,3 +1,4 @@
 # hellodotnetcore
 
-A simple .net core app, also using as a project to demonstrate git. Do some featureC work on github, and a bit more, some more work to get branch ahead...
+A simple .net core app, also using as a project to demonstrate git.
+Now we'll demo a conflict
