@@ -15,7 +15,7 @@ namespace hellodotnetcore
         public static void Main(string[] args)
         {
             // this is feature A
-            // some non conflicting changes for featureC
+            // some non conflicting changes for featureC, now branch will be ahead
             BuildWebHost(args).Run();
         }
 
