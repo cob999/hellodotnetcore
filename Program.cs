@@ -1,4 +1,4 @@
-using System;
+Gusing System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -16,7 +16,7 @@ namespace hellodotnetcore
         {
             // this is feature A
             // some non conflicting changes for featureC, now branch will be ahead
-            // i haz done feature E
+            // i haz done feature G
             BuildWebHost(args).Run();
         }
 
